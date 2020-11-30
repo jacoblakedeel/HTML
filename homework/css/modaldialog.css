@@ -1,0 +1,37 @@
+
+
+.opacity{
+    opacity: 0.8;
+    background-color: rgb(172, 163, 163);
+}
+.Container{
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    z-index: 90;
+}
+
+.modal{
+    position: relative;
+    border: solid rgb(8, 8, 8);
+    height: 20vh;
+    width: 50vw;
+    background-color: rgb(255, 254, 254);
+    color: rgb(7, 7, 7);
+    z-index: 100;
+}
+
+.relativePosition{
+    left: 180px;
+    bottom: 400px;
+}
+
+.boxrow{
+    background-color: rgb(116, 113, 113);
+    color: white;
+    text-align: center;
+}
+
+.modal-content{
+    text-align: center;
+}

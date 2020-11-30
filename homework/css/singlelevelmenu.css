@@ -1,0 +1,26 @@
+
+.menu{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(7, 7, 7);
+    height: 300px;
+    width: 600px;
+    justify-content: center;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+li:hover{
+    background-color: rgb(180, 170, 170);
+    opacity: 95%;
+    margin: 0;
+}
+
+
+li{
+    list-style: none;
+    padding: 10px;
+}
